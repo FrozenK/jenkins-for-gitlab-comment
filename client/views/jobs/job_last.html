@@ -1,0 +1,13 @@
+<template name="jobLast">
+    <div class="ui ribbon label {{color result}}">
+        <a href="{{url}}">{{fullDisplayName }} - {{result}}</a>
+    </div>
+
+    <div class="ui segment">
+        <div class="ui bottom left attached label">Gitlab Comment <span class="notification"></span></div>
+        <p class="ui icon input">
+            <input type="text" class="gitlab-comment" value="{{ gitlabComment _id fullDisplayName url}}">
+            <i class="inverted copy icon copy-comment"></i>
+        </p>
+    </div>
+</template>

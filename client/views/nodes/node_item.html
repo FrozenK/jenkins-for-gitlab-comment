@@ -1,0 +1,9 @@
+<template name="nodeItem">
+    <div class="item">
+    {{#if isActive}}
+        {{> jobLast lastJob}}
+    {{else}}
+        <span>This node is inactive!</span>
+    {{/if}}
+    </div>
+</template>
