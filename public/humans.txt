@@ -1,0 +1,15 @@
+/* TEAM */
+Developer: Pascal Filipovicz
+Contact: pascal.filipovicz [at] frozenk.net
+From: Offenbug, Baden-Württemberg, Deutschland
+
+/* THANKS */
+
+Motivation: Erik Saunier
+From: Paris, Ile-de-France, France
+
+/* SITE */
+Last update: 2014/09/03
+Doctype:HTML5, CSS3 and WebSockets with MeteorJS and Semantic-ui
+Components: meteor.js, node.js, bootstrap3, less, semantic-ui
+Software: Sublime Text, Atom
